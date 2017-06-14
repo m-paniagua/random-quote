@@ -1,0 +1,14 @@
+#quotes {
+  border-style: solid;
+  text-align: center;
+}
+
+#quote{
+  font-style: italic;
+  font-size: 2.5em;
+}
+
+#author{
+  font-size: 1.5em;
+  font-weight: bold;
+}
