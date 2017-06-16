@@ -3,12 +3,12 @@ html {
 }
 
 body {
-  height: 100%;
+/*  height: 100%;*/
   background: #C88B96; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(left top, #C88B96, #E3C5CA); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(bottom right, #C88B96, #E3C5CA); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(bottom right, #C88B96, #E3C5CA); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to bottom right, #C88B96, #E3C5CA); /* Standard syntax */
+  background: -webkit-linear-gradient(left top, #C88B96, #E9D0D5); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(bottom right, #C88B96, #E9D0D5); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(bottom right, #C88B96, #E9D0D5); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to bottom right, #C88B96, #E9D0D5); /* Standard syntax */
 }
 
 #quotes {
